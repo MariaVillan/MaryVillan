@@ -1,11 +1,11 @@
 const CACHE_NAME = 'mary-villanueva-cache-v1';
 const urlsToCache = [
   './index.html',
-  './css/styles.css', // Asegúrate de incluir tu archivo CSS real
-  './js/script.js',   // Asegúrate de incluir tu archivo JS real
+  './css/style.css', 
+  './js/script.js',   
   './img/icon-192x192.png',
   './img/icon-512x512.png',
-  './img/logo.png'    // Incluye otros recursos según sea necesario
+  './img/logo.png'    
 ];
 
 // Instalación del Service Worker
